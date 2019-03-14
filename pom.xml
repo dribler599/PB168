@@ -63,9 +63,10 @@
             <version>4.3.7.RELEASE</version>
         </dependency>
         <dependency>
+            <version>6.2</version>
             <groupId>com.puppycrawl.tools</groupId>
             <artifactId>checkstyle</artifactId>
-            <version>6.2</version>
+            <version>8.18</version>
             <scope>test</scope>
         </dependency>
         <dependency>
